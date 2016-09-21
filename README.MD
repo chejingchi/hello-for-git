@@ -41,3 +41,5 @@ or you can use `git commit -ma "commit message"` you will make all file that is 
 - fork and clones
 fork is just click the fork button
 `git clone <URLFORMGITHUB>`
+set connect to original
+`git remote add upstream <THEORIGINAL>`
